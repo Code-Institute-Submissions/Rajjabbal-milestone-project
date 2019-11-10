@@ -1,4 +1,4 @@
-This it the readme file for Cephtactics Dental Diagnosis Program
+#This it the readme file for Cephtactics Dental Diagnosis Program
 
 Aims:
 
