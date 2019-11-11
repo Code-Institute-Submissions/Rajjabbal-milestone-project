@@ -23,13 +23,7 @@ User 2 - Finding out the problem with my condition was easy, contacting the team
 <<<<<<< HEAD
 #WIREFRAMES 
 
-The following wireframes were used and are available here.
-
-#Features
-=======
-WIREFRAMES 
-
-The following wireframes were used and are available here.
+Wireframes used were handwritten, I have not used Balsamiq.
 
 Features
 >>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
@@ -49,7 +43,7 @@ Emergency dentist availablilty and location.
 
 Technologies Used
 
-I used HTML, CSS as well as Bootstrap to develop the site, the wireframe source used was Balsamiq.
+I used HTML, CSS as well as Bootstrap to develop the site.
 
 Testing
 
