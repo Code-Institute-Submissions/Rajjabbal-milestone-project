@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Cephtactics Dental Diagnosis Program
+=======
+Cephtactics Dental Diagnosis Program
+>>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
 
 The Cephtactics Dental Diagnosis Program is a platform which has been designed to provide the users insight into various dental symptoms and easy understanding of the methods which would be employed for treatment one their visit to the dentist. It gives them a quick and easy pathway as to understanding the condition they present with better so as to be able to prioritize treatment with respect to urgency.
 
@@ -6,17 +10,29 @@ This would be the first stage of an automated symptom checker which would be abl
 
 The aims of this project are to ensure that we provide the public with enhanced diagnositic criteria for common oral health ailments.
 
+<<<<<<< HEAD
 #UX
+=======
+UX
+>>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
 The patient would be able to access clearly from the home page the condition that they have. They should expect to know what they have and the urgency of their pathology.
 
 User 1 - I could navigate the website easily and ended up with easily accesible data, the contact page was large and available.
 User 2 - Finding out the problem with my condition was easy, contacting the team was simple, deciding on the location would be the next step.
 
+<<<<<<< HEAD
 #WIREFRAMES 
 
 The following wireframes were used and are available here.
 
 #Features
+=======
+WIREFRAMES 
+
+The following wireframes were used and are available here.
+
+Features
+>>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
 
 Existing Features
 
@@ -62,6 +78,7 @@ Deployment
 We have deployed the site on Github under the following:
 
 There are no changes to the deployed and development versions of the sites.
+<<<<<<< HEAD
 
 
 Credits
@@ -75,4 +92,18 @@ The main logo was designed on Adobe Illustrator.
 
 Acknowledgements
 I received inspiration for this project from the Cephtactics team!
+=======
 
+
+Credits
+Content
+The text was taken from multiple wikipedia pages, these being
+- "Pulpitis", "Periodontal Disease" as well as "Apthous Ulcers"
+
+Media
+Adobe Stock and  Shutterstock were the sources for the pictures.
+The main logo was designed on Adobe Illustrator.
+>>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
+
+Acknowledgements
+I received inspiration for this project from the Cephtactics team!
