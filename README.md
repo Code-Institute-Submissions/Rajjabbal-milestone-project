@@ -19,9 +19,9 @@ The following wireframes were used and are available here.
 Features
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+
+Ability to review a simple list of symptoms in 3 different pages.
+The ability to upload a picture of their symptoms is possible at the last form.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
@@ -48,9 +48,9 @@ Problems with padding in the menu on mobiles,
 
 Contact form:
 
-When we submit the empty form and verify that an error message about the required fields appears
-When we submit the form with an invalid email address and verify that a relevant error message appears
-When we submit the form with all inputs valid and verify that a success message appears - success message appears.
+When we submit the empty form we can verify that an error message about the required fields appears
+When we submit the form with an invalid email address we can verify that a relevant error message appears
+When we submit the form with all inputs validwe can verify that a success message appears - success message appears.
 
 Early bugs included the menu padding during the mobile view.
 
