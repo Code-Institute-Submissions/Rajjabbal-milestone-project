@@ -9,13 +9,14 @@ The aims of this project are to ensure that we provide the public with enhanced 
 UX
 The patient would be able to access clearly from the home page the condition that they have. They should expect to know what they have and the urgency of their pathology.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+User 1 - I could navigate the website easily and ended up with easily accesible data, the contact page was large and available.
+User 2 - Finding out the problem with my condition was easy, contacting the team was simple, deciding on the location would be the next step.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+WIREFRAMES 
+
+The following wireframes were used and are available here.
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -25,18 +26,25 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
-Another feature idea
+
+More complex symptom checker, where location and time of the problem has been considered.
+Location platform of dentists available with regards to time, cost, location and urgency for the condition which is present.
+Emergency dentist availablilty and location.
+
 Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+I used HTML, CSS as well as Bootstrap to develop the site, the wireframe source used was Balsamiq.
+
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+I performed the first test to check the ability of the user to understand the main conditions present on mobile as well as desktop devices. 
+The second tests incorporated used to check the accesibility from one page to another, ability to fill in the end form on both mobile and desktop devices.
+Final testing was done where I tested the end result with respect to the multiple users and took their considerations into account regarding the user interface.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+I have not run any automated tests.
+
+The first testing outcomes:
+Problems with padding in the menu on mobiles,
 
 Contact form:
 Go to the "Contact Us" page
