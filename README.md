@@ -47,30 +47,31 @@ The first testing outcomes:
 Problems with padding in the menu on mobiles,
 
 Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+When we submit the empty form and verify that an error message about the required fields appears
+When we submit the form with an invalid email address and verify that a relevant error message appears
+When we submit the form with all inputs valid and verify that a success message appears - success message appears.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Early bugs included the menu padding during the mobile view.
+
+
+The biggest bugs we found were with the padding in the initial stages when viewing the site on mobile devices.
+The bugs with respect to items which have not been corrected include the blue sweep which comes on the main menu as well as the size of the logo on a mobile device.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+We have deployed the site on Github under the following:
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+There are no changes to the deployed and development versions of the sites.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+The text was taken from multiple wikipedia pages, these being
+- "Pulpitis", "Periodontal Disease" as well as "Apthous Ulcers"
+
 Media
-The photos used in this site were obtained from ...
+Adobe Stock and  Shutterstock were the sources for the pictures.
+The main logo was designed on Adobe Illustrator.
+
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project from the Cephtactics team!
