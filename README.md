@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Cephtactics Dental Diagnosis Program
 =======
 Cephtactics Dental Diagnosis Program
@@ -101,3 +102,6 @@ The main logo was designed on Adobe Illustrator.
 
 Acknowledgements
 I received inspiration for this project from the Cephtactics team!
+=======
+
+>>>>>>> 42acd59438236b72004c68bc0a91443f0383ccdb
