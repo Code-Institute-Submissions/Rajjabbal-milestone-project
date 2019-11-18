@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#Cephtactics Dental Diagnosis Program
+
+Cephtactics Dental Diagnosis Program
 =======
 Cephtactics Dental Diagnosis Program
->>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
+
 
 The Cephtactics Dental Diagnosis Program is a platform which has been designed to provide the users insight into various dental symptoms and easy understanding of the methods which would be employed for treatment one their visit to the dentist. It gives them a quick and easy pathway as to understanding the condition they present with better so as to be able to prioritize treatment with respect to urgency.
 
@@ -11,23 +10,23 @@ This would be the first stage of an automated symptom checker which would be abl
 
 The aims of this project are to ensure that we provide the public with enhanced diagnositic criteria for common oral health ailments.
 
-<<<<<<< HEAD
-#UX
+
+UX
 =======
 UX
->>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
+
 The patient would be able to access clearly from the home page the condition that they have. They should expect to know what they have and the urgency of their pathology.
 
 User 1 - I could navigate the website easily and ended up with easily accesible data, the contact page was large and available.
 User 2 - Finding out the problem with my condition was easy, contacting the team was simple, deciding on the location would be the next step.
 
-<<<<<<< HEAD
-#WIREFRAMES 
 
-Wireframes used were handwritten, I have not used Balsamiq.
+WIREFRAMES 
+
+Wireframes used were handwritten, I have not used Balsamiq. I have 6 pages of wireframe markups present.
 
 Features
->>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
+
 
 Existing Features
 
@@ -73,7 +72,7 @@ Deployment
 We have deployed the site on Github under the following:
 
 There are no changes to the deployed and development versions of the sites.
-<<<<<<< HEAD
+
 
 
 Credits
@@ -94,14 +93,14 @@ Credits
 Content
 The text was taken from multiple wikipedia pages, these being
 - "Pulpitis", "Periodontal Disease" as well as "Apthous Ulcers"
+- Please see the following: https://en.wikipedia.org/wiki/Pulpitis, https://en.wikipedia.org/wiki/Periodontal_disease, https://en.wikipedia.org/wiki/Aphthous_stomatitis
 
 Media
 Adobe Stock and  Shutterstock were the sources for the pictures.
 The main logo was designed on Adobe Illustrator.
->>>>>>> 42604229243df1d5aaf7cf6a46d2dbca31b532c2
+
 
 Acknowledgements
 I received inspiration for this project from the Cephtactics team!
 =======
 
->>>>>>> 42acd59438236b72004c68bc0a91443f0383ccdb
