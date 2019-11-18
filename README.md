@@ -41,9 +41,9 @@ In addition, you may also use this section to discuss plans for additional featu
 Features Left to Implement - 
 
 - More complex symptom checker, where location and time of the problem has been considered.
-- 
+
 - Location platform of dentists available with regards to time, cost, location and urgency for the condition which is present.
-- 
+
 - Emergency dentist availablilty and location.
 
 Technologies Used - 
