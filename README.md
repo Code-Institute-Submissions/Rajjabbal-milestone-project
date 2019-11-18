@@ -83,7 +83,7 @@ The bugs with respect to items which have not been corrected include the blue sw
 Deployment:
 =======
 
-We have deployed the site on Github under the following:
+We have deployed the site on Github under the following: https://github.com/Rajjabbal/milestone-project
 
 There are no changes to the deployed and development versions of the sites.
 
@@ -92,7 +92,7 @@ Credits:
 
 Content - 
 
-The text was taken from multiple wikipedia pages, these being
+The text was taken from multiple wikipedia pages, these being:
 - "Pulpitis", "Periodontal Disease" as well as "Apthous Ulcers"
 - Please see the following: https://en.wikipedia.org/wiki/Pulpitis, https://en.wikipedia.org/wiki/Periodontal_disease, https://en.wikipedia.org/wiki/Aphthous_stomatitis
 
