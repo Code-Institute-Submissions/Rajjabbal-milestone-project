@@ -11,6 +11,16 @@ This would be the first stage of an automated symptom checker which would be abl
 
 The aims of this project are to ensure that we provide the public with enhanced diagnositic criteria for common oral health ailments.
 
+Motivation behind the project was from the ability to enhance distance diagnostics in dentistry by allowing a patient focused experience. The future of medicine and dentistry will harness remote healthcare.
+
+
+Build Status - 
+
+Code Style - 
+
+Built with - 
+
+Screenshots - Screenshots have been provided
 
 UX:
 =======
@@ -25,7 +35,8 @@ User 2 - Finding out the problem with my condition was easy, contacting the team
 Wireframes:
 =======
 
-Wireframes used were handwritten, I have not used Balsamiq. I have 6 pages of wireframe markups present.
+Balsamiq wire frames were used to make all pages in the site, they have been included in the upload.
+ceph wireframe.bmpr
 
 Features:
 =======
